@@ -1,22 +1,20 @@
-img{
-    float: right;
-    background-color: green;
-    border: 1px solid yellow;
-    margin: 10 10 10 10;
-    width: 40%;
+.img{
+     border: 1px solid yellow;
+     margin: 10 10 10 10;
+     background-color: grey;
+     width: 0;
+     
 }
 
 h2 {
-    float: right;
     color: white
 }    
     
 
 body {
-    background-color: red;
+    background-color:green
 }
 
 span{
     color: yellowgreen;
-    
-}
+}    

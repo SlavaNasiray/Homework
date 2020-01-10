@@ -1,3 +1,7 @@
 .colortext{
     color:red
 }
+
+.disk{
+    list-style-type: disc;
+}
