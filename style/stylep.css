@@ -19,3 +19,7 @@
 body{
     background-color:grey
 }
+
+.none{
+    list-style: none;
+}
